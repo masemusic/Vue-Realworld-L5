@@ -2,8 +2,8 @@
   "events": [
     {
       "id": 123,
-      "category": "animal welfare",
-      "title": "Cat Adoption Day",
+      "category": "animals",
+      "title": "Grab a beast today, u need",
       "description": "Find your new feline friend at this event.",
       "location": "Meow Town",
       "date": "January 28, 2022",
@@ -13,7 +13,7 @@
     {
       "id": 456,
       "category": "food",
-      "title": "Community Gardening",
+      "title": "Grow that Hyrdo, Thrive",
       "description": "Join us as we tend to the community edible plants.",
       "location": "Flora City",
       "date": "March 14, 2022",
@@ -23,7 +23,7 @@
     {
       "id": 789,
       "category": "sustainability",
-      "title": "Beach Cleanup",
+      "title": "Herbs and Green Thumbs",
       "description": "Help pick up trash along the shore.",
       "location": "Playa Del Carmen",
       "date": "July 22, 2022",
